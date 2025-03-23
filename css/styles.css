@@ -129,11 +129,6 @@ body {
   width: calc((100% - 72px) / 4);
 }
 
-.sect-two .conteiner {
-  max-width: 1158px;
-  margin: 0 auto;
-  padding: 0 15px;
-}
 
 .threetop-head {
   margin-bottom: 8px;
@@ -267,7 +262,7 @@ img {
   display: flex;
   justify-content: space-around;
 }
-.conteiner {
+.container {
   box-sizing: border-box;
   width: 1158px;
   margin: 0 auto;
