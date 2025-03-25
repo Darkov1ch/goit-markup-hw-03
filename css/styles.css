@@ -77,6 +77,7 @@ body {
 .main-header {
   max-width: 496px;
   margin: 0 auto;
+  margin-bottom: 48px;
 }
 
 .ord-but {
