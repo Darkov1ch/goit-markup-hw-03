@@ -54,7 +54,8 @@ body {
   letter-spacing: 0.03em;
   color: #4d5ae5;
   text-decoration: none;
-  
+  margin-right: 76px;
+  display: inline-block;
 }
 
 .logo-lupa {
