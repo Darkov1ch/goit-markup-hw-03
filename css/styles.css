@@ -260,25 +260,21 @@ img {
   justify-content: space-around;
 }
 .container {
-  box-sizing: border-box;
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
 }
-nav {
+
+.cont-navi {
   display: flex;
   align-items: center;
 }
-/* .cont-navi {
-  display: flex;
-  align-items: center;
-} */
 
 .nav-list {
   display: flex;
   gap: 40px;
 }
-.glob-logo {
+.logogo {
   margin-right: 76px;
 }
 .special-studio {
