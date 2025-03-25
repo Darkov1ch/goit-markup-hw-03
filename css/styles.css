@@ -54,7 +54,7 @@ body {
   letter-spacing: 0.03em;
   color: #4d5ae5;
   text-decoration: none;
-  margin-right: 76px;
+  
 }
 
 .logo-lupa {
@@ -276,7 +276,7 @@ img {
   display: flex;
   gap: 40px;
 }
-.logogo {
+.logo-box {
   margin-right: 76px;
 }
 .special-studio {
